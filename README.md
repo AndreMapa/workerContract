@@ -1,4 +1,4 @@
-# workerContract
+# Worker Contract
 
 ## Language used
 - Java
